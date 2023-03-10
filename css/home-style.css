@@ -1,0 +1,21 @@
+:root {
+    --theme-color: #00BFA6;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+.navbar {
+    background: #00BFA6 !important;
+}
+.btn-primary {
+    background-color: var(--theme-color);
+    border-color: var(--theme-color);
+}
+.btn-primary:hover {
+    background-color: #008c76;
+    border-color: #008c76;
+}
+
+.avatar {
+    width: 50px;
+}
